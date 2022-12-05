@@ -1,2 +1,2 @@
-# Daily Climate Analysis & Forcasting
+# Delhi Climate Analysis & Forcasting
 Work in progress.
