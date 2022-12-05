@@ -1,2 +1,2 @@
-# Daily-Climate-Analysis-Forcasting
-Basic EDA of the time series and LSTM model for the Daily Climate dataset.
+# Daily Climate Analysis & Forcasting
+Work in progress.
